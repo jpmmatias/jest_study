@@ -1,0 +1,19 @@
+{
+  "name": "example_tdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.15.8",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^27.3.1",
+    "jest": "^27.3.1",
+    "regenerator-runtime": "^0.13.9"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "core-js": "2"
+  }
+}
